@@ -125,9 +125,9 @@ smmap==4.0.0 \
     # via
     #   -r tools/deprecate_version/requirements.txt
     #   gitdb
-urllib3==1.26.5 \
-    --hash=sha256:753a0374df26658f99d826cfe40394a686d05985786d946fbe4165b5148f5a7c \
-    --hash=sha256:a7acd0977125325f516bda9735fa7142b909a8d01e8b2e4c8108d0984e6e0098
+urllib3==1.26.12 \
+    --hash=sha256:3fa96cf423e6987997fc326ae8df396db2a8b7c667747d47ddd8ecba91f4a74e \
+    --hash=sha256:b930dd878d5a8afb066a637fbb35144fe7901e3b209d1cd4f524bd0e9deee997
     # via
     #   -r tools/deprecate_version/requirements.txt
     #   requests
